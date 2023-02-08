@@ -2,7 +2,7 @@
 # nanoROTOR
 
 A minimal ArduinoNano-based replacement for the control unit of a antenna rotor (AR-302).
-Work in progress. Contact [@meekeee](https://www.github.com/meekeee) in case of questions.
+Work in progress. Contact [@mgiugliano](https://www.github.com/mgiugliano) in case of questions.
 
 
 ## Authors
