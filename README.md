@@ -8,7 +8,7 @@ Work in progress. Contact [@meekeee](https://www.github.com/meekeee) in case of 
 ## Authors
 
 - Bruno (iv3kyq, not on GitHub)
-- [@meekeee](https://www.github.com/meekeee)
+- [@mgiugliano](https://www.github.com/mgiugliano)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
